@@ -103,3 +103,10 @@ git push -u origin main
 Посмотреть комиты /commits/master
 
 создание фаила README.md
+
+//как клонировать репозиторий
+Можно просто скачать через zip
+
+cd ../
+git clone https://github.com/f1rerabbit/git-hub-tutorial.git
+cd git-hub-tutorial
