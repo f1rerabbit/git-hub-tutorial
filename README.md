@@ -110,3 +110,10 @@ git push -u origin main
 cd ../
 git clone https://github.com/f1rerabbit/git-hub-tutorial.git
 cd git-hub-tutorial
+
+//нанимаюнового сторудника
+cd ../ git clone ____
+
+//как взять новый фаил если его нету у сотрудника
+
+git pull скачивание фаилов
